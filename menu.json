@@ -1,0 +1,50 @@
+[
+  {
+    "id" : 1,
+    "isim": "Sivas Köftesi"
+  },
+  {
+    "id" : 2,
+    "isim": "Divriği Pilavı"
+  },
+  {
+    "id" : 3,
+    "isim": "Ciğer Şiş"
+  },
+  {
+    "id" : 4,
+    "isim": "Hıngel"
+  },
+  {
+    "id" : 5,
+    "isim": "Köri Soslu Tavuk"
+  },
+  {
+    "id" : 6,
+    "isim": "Kabak Tatlısı"
+  },
+  {
+    "id" : 7,
+    "isim": "Babiko"
+  },
+  {
+    "id" : 8,
+    "isim": "Peskütan Çorbası"
+  },
+  {
+    "id" : 9,
+    "isim": "Toyga Çorbası"
+  },
+  {
+    "id" : 10,
+    "isim": "Gazete Baklavası"
+  },
+  {
+    "id" : 11,
+    "isim": "Mercimek Badı"
+  },
+  {
+    "id" : 12,
+    "isim": "Pezik dal turşusu"
+  }
+]
